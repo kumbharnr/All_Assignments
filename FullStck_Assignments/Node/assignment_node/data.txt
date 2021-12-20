@@ -1,0 +1,4 @@
+these file for reading and the display the data
+try
+abcd
+count the number of lines words
